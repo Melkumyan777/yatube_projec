@@ -1,2 +1,2 @@
-# yatube_projec
+# yatube_project
 Социальная сеть блогеров
